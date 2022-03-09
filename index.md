@@ -10,27 +10,20 @@ FilterHtml is a lightweight app for removing the html tags(<>)
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Before filtering:
 
-- Bulleted
-- List
+<title>EXAMPLE</title>
 
-1. Numbered
-2. List
+<h1>hello</h1>
+<h2>this is an example html code</h2>
 
-**Bold** and _Italic_ and `Code` text
+### After pushing code to FilterHtml
 
-[Link](url) and ![Image](src)
+EXAMPLE
+hello
+this is an example html code
+[Code on Github](https://github.com/stratosvomvos/FilterHtml)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more details about FilterHtml see [README.MD]((https://github.com/stratosvomvos/FilterHtml/README.md).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stratosvomvos/stratosvomvos.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
