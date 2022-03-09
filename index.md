@@ -25,5 +25,5 @@ this is an example html code
 [Code on Github](https://github.com/stratosvomvos/FilterHtml)
 ```
 
-For more details about FilterHtml see [README.MD]((https://github.com/stratosvomvos/FilterHtml/README.md).
+For more details about FilterHtml see [README.MD]((https://github.com/stratosvomvos/FilterHtml/blob/main/README.md).
 
